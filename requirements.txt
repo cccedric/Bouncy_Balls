@@ -1,0 +1,8 @@
+numpy
+matplotlib
+scipy
+imageio-ffmpeg
+PyQt5
+pyqtgraph==0.10.0 # Issues with new versions not exporting plots correctly
+imageio
+yappi
